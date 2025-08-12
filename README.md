@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rajesh Jalasutram
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0f172a&center=true&vCenter=true&width=720&height=110&lines=AI+%26+ML+Enthusiast;Nature+Lover;Open+Source+Contributor)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&background=0d1117&center=true&vCenter=true&width=720&height=110&lines=AI+%26+ML+Enthusiast;Nature+Lover;Open+Source+Contributor)
 
 💻 **B.Tech CSE-DS | AI & ML Enthusiast | Nature Lover**  
 🚀 Passionate about building intelligent solutions, working on AI projects, and exploring green energy innovations.  
@@ -25,9 +25,9 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-NatureWithYou🌍🕊️-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/jalasut)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jalasutram-rajesh-92815a26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-NatureWithYou🌍🕊️-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/nature.therapii)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/jalasutramprabhakararao)
 
 ---
 
