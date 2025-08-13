@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rajesh Jalasutram
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&background=0d1117&width=720&height=110&padding=10&lines=AI+%26+ML+Enthusiast;Nature+Lover;Open+Source+Contributor)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=ffffff&background=0d1117&width=720&height=110&padding=10&lines=FSD&AIML+%26+Enthusiast;Nature+Lover;Open+Source+Contributor)
 
 
 💻 **B.Tech CSE-DS | AI & ML Enthusiast | Nature Lover**  
